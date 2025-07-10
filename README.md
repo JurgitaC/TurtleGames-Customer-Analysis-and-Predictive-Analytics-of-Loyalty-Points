@@ -4,11 +4,11 @@
 
 **Topics** Linear Regression, Multiple Linear Regression, K-means Clustering, Decission Tree Regressor, Natural Language Processing, Sentiment Analysis.
 
-📂 [Presentation Slides](Presentation_slides_NHS.pdf)
-📂 [Technical Report](Cepure_Jurgita_DA201_Assignment_Report.pdf)
-📂 [Python Code Notebook](Cepure_Jurgita_DA201_Assignment_NHS.ipynb)
-📂 [R Code](Cepure_Jurgita_DA201_Assignment_NHS.ipynb)
-📂 [Feedback](Jurgita_Cepure_Assignment_feedback.pdf)
+📂 [Presentation Slides](Cepure_Jurgita_DA301_Assignment_Presentation_slides.pdf)
+📂 [Technical Report](Cepure_Jurgita_DA301_Assignment_Report.pdf)
+📂 [Python Code Notebook](Cepure_Jurgita_DA301_Assignment_Notebook.ipynb)
+📂 [R Code](Cepure_Jurgita_DA301_Assignment_Rscript.R)
+📂 [Feedback](Jurgita Cepure Assignment 3 Feedback.pdf)
 
 ----------------------
 
