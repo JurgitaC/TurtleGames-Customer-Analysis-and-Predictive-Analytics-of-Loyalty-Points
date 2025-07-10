@@ -13,3 +13,9 @@
 ----------------------
 
 ## ❓ Business Questions: 
+
+To improve sales performance, Turtle Games has posed set of questions: 
+- How do customers engage with and accumulate loyalty points?
+- How can customers be segmented into groups for targeted marketing?
+- How can customer reviews be used to inform marketing campaigns and make improvements to the business?
+- Are loyalty points suitable data to create predictive models?
