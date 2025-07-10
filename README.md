@@ -7,8 +7,8 @@
 📂 [Presentation Slides](Cepure_Jurgita_DA301_Assignment_Presentation_slides.pdf)
 📂 [Technical Report](Cepure_Jurgita_DA301_Assignment_Report.pdf)
 📂 [Python Code Notebook](Cepure_Jurgita_DA301_Assignment_Notebook.ipynb)
-📂 [R Code](Cepure_Jurgita_DA301_Assignment_Rscript.R)
-📂 [Feedback](Jurgita Cepure Assignment 3 Feedback.pdf)
+📂 [R Script](Cepure_Jurgita_DA301_Assignment_Rscript.R)
+📂 [Feedback](Jurgita%20Cepure%20Assignment%203%20Feedback.pdf)
 
 ----------------------
 
