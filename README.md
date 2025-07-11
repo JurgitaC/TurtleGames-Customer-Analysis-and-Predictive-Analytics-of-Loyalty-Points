@@ -29,11 +29,15 @@ The file *turtle_reviews.csv* was used in the analysis. It contained limited cus
 
 ## ⚙️ Analytical Approach 
 
-- To investigate which factors influence loyalty points accumulation through
+- To **investigate which factors influence loyalty points accumulation** through
 a multi-method analysis: MLR and Decision Tree Regressor were applied in Python, with key
 findings cross-validated in R, the company’s preferred language.
 
-- Customer segmentation was performed using K-Means clustering to support targeted marketing.
+- **Customer segmentation** was performed using K-Means clustering to support targeted marketing.
 
 - Basic text preprocessing and lexicon-based sentiment models (VADER, TextBlob) were applied to customer reviews to
-demonstrate the potential of leveraging sentiment insights for better decision-making.
+demonstrate **the potential of leveraging sentiment insights for better decision-making**.
+
+----------------------
+
+## 📊 Patterns, Trends, and Insights
