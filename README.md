@@ -54,16 +54,26 @@ demonstrate **the potential of leveraging sentiment insights for better decision
 
 ----------------------
 
+## 📌 Conclusions
+
+**Loyalty points** are strongly **influenced by spending score and remuneration**, with decision trees offering highly accurate predictions. 
+
+**Customer segmentation and sentiment analysis provide actionable insights**, though more advanced tools are needed to detect dissatisfaction. 
+
+Overall, **loyalty points offer strong potential for predictive modelling and targeted marketing**.
+
+----------------------
+
 ## 💊 Recommendations and Next Steps
 
-- Keep tracking and analysing loyalty points — strong potential for predictive modelling and targeted
+- **Keep tracking and analysing loyalty points** — strong potential for predictive modelling and targeted
 marketing, but expanding the dataset is key to improving accuracy.
-- Include timestamps to data to enable time-series analysis for customers’ spending patterns over time.
-- Break down spending score to understand its make up and use insights to refine customer
+- **Include timestamps to data** to enable time-series analysis for customers’ spending patterns over time.
+- **Break down spending score** to understand its make up and use insights to refine customer
 segmentation.
-- Clean up customer reviews by limiting word count and explore advanced ML models for more accurate
+- **Clean up customer reviews** by limiting word count and **explore advanced ML models** for more accurate
 sentiment analysis.
-- Focus marketing on niche segments for better personalization, reach, and ROI — and tailor the loyalty
+- **Focus marketing on niche segments** for better personalization, reach, and ROI — and tailor the loyalty
 program accordingly.
 
 ![Alt text](Visuals/Examples_tailored_marketing_8clusters.png)
