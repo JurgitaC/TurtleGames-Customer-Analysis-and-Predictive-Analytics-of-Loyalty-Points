@@ -41,3 +41,13 @@ demonstrate **the potential of leveraging sentiment insights for better decision
 ----------------------
 
 ## 📊 Patterns, Trends, and Insights
+
+![Alt text](Visuals/Loyalty_Points.png)
+
+![Alt text](Visuals/Loyalty_points_corr_matrix.png)
+
+![Alt text](Visuals/Customer_cluster_mass_appeal.png)
+
+![Alt text](Visuals/Customer_cluster_niche_focus.png)
+
+![Alt text](Visuals/Sentiment_analysis.png)
