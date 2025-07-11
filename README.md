@@ -51,3 +51,22 @@ demonstrate **the potential of leveraging sentiment insights for better decision
 ![Alt text](Visuals/Customer_cluster_niche_focus.png)
 
 ![Alt text](Visuals/Sentiment_analysis.png)
+
+----------------------
+
+## 💊 Recommendations and Next Steps
+
+- Keep tracking and analysing loyalty points — strong potential for predictive modelling and targeted
+marketing, but expanding the dataset is key to improving accuracy.
+- Include timestamps to data to enable time-series analysis for customers’ spending patterns over time.
+- Break down spending score to understand its make up and use insights to refine customer
+segmentation.
+- Clean up customer reviews by limiting word count and explore advanced ML models for more accurate
+sentiment analysis.
+- Focus marketing on niche segments for better personalization, reach, and ROI — and tailor the loyalty
+program accordingly.
+
+![Alt text](Visuals/Examples_tailored_marketing_8clusters.png)
+
+![Alt text](Visuals/Niche_customers_income.png)
+
