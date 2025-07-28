@@ -10,6 +10,8 @@
 📂 [R Script](Cepure_Jurgita_DA301_Assignment_Rscript.R)
 📂 [Feedback](Jurgita%20Cepure%20Assignment%203%20Feedback.pdf)
 
+**Grade**: 84% 
+
 ----------------------
 
 ## ❓ Business Questions: 
